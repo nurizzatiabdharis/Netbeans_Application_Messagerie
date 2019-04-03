@@ -1,2 +1,4 @@
 # Application Messagerie avec Netbeans 
-**Stack: Java, base de donnee mysql**
+**Stack: Java, Mysql**
+
+
