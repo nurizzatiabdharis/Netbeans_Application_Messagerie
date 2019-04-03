@@ -1,7 +1,7 @@
 ﻿/**
  *
  * C'est la classe pour la connexion au BDD
- * Pour ceci, nous avons utilise le logiciel WAMPSERVER64.
+ * Pour ceci, utilise le logiciel WAMPSERVER64.
  */
 package Base;
 
